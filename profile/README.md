@@ -35,7 +35,11 @@
 
 ###
 
-<p align="left">We are the **DreamClouds**, a passionate developer team from **France** 🥐 <br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+We are the **DreamClouds**, a passionate developer team from **France** 🥐
+
+- 🔭 I’m working as ...
+-  📚 I'm currently learning ...
+- ⚡ In my free time I ...
 
 ###
 
