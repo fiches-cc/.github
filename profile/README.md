@@ -8,9 +8,6 @@
   <a href="https://dsc.gg/dreamclouds" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="https://paypal.me/funasitien" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="paypal logo"  />
-  </a>
   <a href="https://twitch.tv/fdreamcloud" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
   </a>
@@ -37,9 +34,9 @@
 
 We are the **DreamClouds**, a passionate developer team from **France** 🥐
 
-- 🔭 I’m working as ...
--  📚 I'm currently learning ...
-- ⚡ In my free time I ...
+- 🔭 We are working on colabs with **@democraftmc** and **@Vaatigames**
+-  📚 We are curently learning **JS Frameworks**
+- ⚡ In my free time We play minecraft.
 
 ###
 
@@ -56,9 +53,5 @@ We are the **DreamClouds**, a passionate developer team from **France** 🥐
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
